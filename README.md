@@ -42,5 +42,5 @@ sales_marketing_data
 - KPI Queries
 - Business Intelligence Queries
 
-## Resume Highlight
+## Highlight
 Developed a complete Sales & Marketing Analytics solution integrating Excel dashboards, SQL analytics, and Python-based data processing for KPI reporting, campaign performance analysis, ROI evaluation, and business insight generation.
